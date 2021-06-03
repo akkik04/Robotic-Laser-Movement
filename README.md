@@ -1,6 +1,6 @@
 # Robotic-Laser-Hand
 
-**SIDE PROJECT**
+                                                                             **SIDE PROJECT**
 
 My goal is to create a robotic hand that angles itself using the servo motor. I will attach a laser to this hand and simulate a robotic hand moving. This project will be done by me in stages. 
 
