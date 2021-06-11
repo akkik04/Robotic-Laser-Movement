@@ -5,3 +5,6 @@ My goal is to create a robotic hand that angles itself using the servo motor and
 
 - **STAGE 1 (2021-06-03):**
 I created the circuit and coded the necessary software to begin the process of flashing the laser via a joystick. This process will be the initial step and the software for this is uploaded in this repository. In the next stage, I will begin attaching the servo motor to the circuit and update the software.
+
+- **STAGE 2 (2021-06-11):**
+I added the servo motor to the circuit and created the necessary changes to the software to accomodate for the motor. The motor is controlled by the joystick. I created a prototype by taping the laser to the servo motor to simulate movement. The movement is restricted to horizontal movement for now. In the next stage, I will try attaching another servo motor to account for the vertical movement.
