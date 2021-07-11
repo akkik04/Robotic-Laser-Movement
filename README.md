@@ -9,5 +9,5 @@ I created the circuit and coded the necessary software to begin the process of f
 - ## **STAGE 2 (2021-06-11):**
 I added the servo motor to the circuit and created the necessary changes to the software to accomodate for the motor. The motor is controlled by the joystick. I created a prototype by taping the laser to the servo motor to simulate movement. The movement is restricted to horizontal movement for now. In the next stage, I will try attaching another servo motor to account for the vertical movement.
 
-- ## **STAGE 3 (2021-06-29):**
-I added a new servo motor, and I made minor changes to the software to accommodate for the vertical motion created by it. In the next stage, I will begin attaching the two servo motors together so that the laser has both horizontal and vertical movement.
+- ## **FINAL STAGE: STAGE 3 (2021-06-29):**
+I added a new servo motor, and I made minor changes to the software to accommodate for the vertical motion created by it. This marks the end of my project. I'll continue working with the Arduino platform to make more interesting and eye-catching projects.
